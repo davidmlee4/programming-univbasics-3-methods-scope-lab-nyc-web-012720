@@ -24,4 +24,3 @@ def any_phrase
 end
 
 any_phrase
-
