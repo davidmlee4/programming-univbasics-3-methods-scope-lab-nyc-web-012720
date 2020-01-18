@@ -13,7 +13,7 @@ end
 toadstool
 
 def link
-  puts "It's Too Dangerous To Go Alone! Take This."
+  puts "It's Dangerous To Go Alone! Take This."
 end
 
 link
