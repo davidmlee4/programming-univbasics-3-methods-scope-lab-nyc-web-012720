@@ -11,3 +11,17 @@ def toadstool
 end
 
 toadstool
+
+def link
+  puts "It's Too Dangerous To Go Alone! Take This."
+end
+
+link
+
+def any_phrase
+  phrase = "Do A Barrell Roll!"
+  puts "#{phrase}"
+end
+
+any_phrase
+
